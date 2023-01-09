@@ -1,9 +1,6 @@
 ### Hey there! I'm Daniel 👋
 
 - I'm a senior at [Unicentro](https://www3.unicentro.br) majoring in Computer Science
-- I'm passionate about technology, programming and learning new things
-- I'm into Software Development (web and mobile), DevOps and DevSecOps
-- I'm currently looking for an internship
 
 ##
 ### GitHub Statistics
