@@ -14,6 +14,6 @@
 ### Additional Information
 <div>
   <a href="https://www.linkedin.com/in/danielmbrasil">
-    <img src="https://img.shields.io/badge/LinkedIn-1e252c?style=for-the-badge&logo=linkedin&logoColor=5192fe" alt="Connect with me on linkedin" >
+    <img src="https://static.licdn.com/scds/common/u/img/icon/apple-touch-icon.png" alt="LinkedIn" width="32" height="32">
   </a>
 </div>
